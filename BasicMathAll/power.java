@@ -1,4 +1,4 @@
-package BasicMath;
+package BasicMathAll;
 import java.util.Scanner;
 
 public class power {

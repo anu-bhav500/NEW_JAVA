@@ -1,4 +1,4 @@
-package TCStoktofive;
+package StringAll;
 
 /*  Write a program to check whether two given strings are anagrams of each other or not.Two
  strings are said to be anagrams if they contain the same characters with the same

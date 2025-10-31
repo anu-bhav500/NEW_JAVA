@@ -1,4 +1,4 @@
-package BasicMath;
+package BasicMathAll;
 import java.util.Scanner;
 // perfect num means the sum of all divisior(except itself) is equal to this number itself
 public class PerfectNum {
@@ -14,7 +14,7 @@ sum += n/i;
   }
 }
 }
-System.out.println(sum);
+// System.out.println(sum);
 if(sum == n){
   return true;
 }

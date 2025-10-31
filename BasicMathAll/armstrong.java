@@ -1,4 +1,4 @@
-package BasicMath;
+package BasicMathAll;
 // import java.util.*;
 import java.io.*;
 public class armstrong {

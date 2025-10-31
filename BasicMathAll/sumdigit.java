@@ -1,4 +1,4 @@
-package BasicMath;
+package BasicMathAll;
 import java.util.*;
 public class sumdigit {
   public static void main(String[] args) {
